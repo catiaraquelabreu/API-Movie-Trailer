@@ -1,13 +1,10 @@
 API-Movie-Trailer
-Projeto final do último módulo do curso EDIT.
 
-Visão Geral:
-Este projeto tem como objetivo principal a criação de uma API de filmes que oferece funcionalidades para assistir a trailers de filmes, obter informações detalhadas sobre os filmes e avaliar filmes. Além disso, para aceder a determinadas funcionalidades, como dar ratings aos filmes, é necessário fazer login.
+Project Overview:
+The primary aim of this project is the creation of a comprehensive movie API. This API offers users the ability to watch movie trailers, access detailed movie information, and rate movies. Notably, to access certain functionalities, such as rating movies, user authentication is a prerequisite.
 
-Funcionalidades Principais:
-Assistir a Trailers: Poder assistir a trailers de filmes diretamente pela API.
+Key Features:
 
-Detalhes do Filme: Obter informações detalhadas sobre os filmes.
-
-Autenticação: Para aceder  a recursos protegidos, como dar avaliação aos filmes,é necessário login.
-
+-Trailer Viewing: Enjoy the convenience of watching movie trailers directly through our API.
+-Movie Details: Access in-depth information about each movie in our collection.
+-Authentication: Secure access to specific features, including movie rating, through user login.
